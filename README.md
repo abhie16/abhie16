@@ -8,4 +8,4 @@
 - 📫 How to reach me: abhie9336@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
-
+<a href="http://www.github.com/abhi16"><img src="https://activity-graph.herokuapp.com/graph?username=abhie16&bg_color=ffffff&color=0f172a&line=22c55e&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
