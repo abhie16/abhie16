@@ -17,3 +17,6 @@
 <a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhie16&stroke=0f172a&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=0f172a&currStreakLabel=22c55e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
 <a href="http://www.github.com/abhie16"><img src="https://activity-graph.herokuapp.com/graph?username=abhie16&bg_color=ffffff&color=0f172a&line=22c55e&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhie16)
