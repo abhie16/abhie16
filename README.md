@@ -12,7 +12,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/abhie16"><img src="https://github-readme-stats.vercel.app/api?username=abhie16&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&bg_color=0d1117&hide_border=false&show_icons=true" alt="abhie16's GitHub stats" /></a>
+<a href="http://www.github.com/abhie16"><img src="https://github-readme-stats.vercel.app/api?username=abhie16&show_icons=true&theme=dark" alt="abhie16's GitHub stats" /></a>
 
 <a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhie16&stroke=c9d1d9&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=c9d1d9&currStreakLabel=22c55e&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" /></a>
 
