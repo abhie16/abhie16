@@ -20,4 +20,16 @@
 
 [![@abhie16's Holopin board](https://holopin.me/abhie16)](https://holopin.io/@abhie16)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhie16/abhie16)
+<br> 
+
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abhie16/abhie16)
+        
+</div>
+
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
