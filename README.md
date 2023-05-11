@@ -1,16 +1,34 @@
 
 
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻,  I'm Abhishek Pandey !
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web development and dsa with java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: abhie9336@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
+```javascript
+const abhie16 = {
+    pronouns: "He" | "Him",
+    code: [Javascript, Java, C],
+    askMeAbout: ["Web Developemnt", "DSA"],
+    technologies:{
+       frontEnd: {
+            js: ["React"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase", "socket.io"]
+    },
+    challenge: "I am trying to do more personal projects",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
         
         
 <div align="center">
