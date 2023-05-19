@@ -14,6 +14,7 @@ const abhie16 = {
     code: [Javascript, Java, C],
     askMeAbout: ["Web Developemnt", "DSA"],
     technologies:{
+        //practicing
        frontEnd: {
             js: ["React"],
             css: ["materialize", "bootstrap"]
@@ -21,11 +22,12 @@ const abhie16 = {
         backEnd: {
             js: ["node", "express"],
         },
-        devOps: ["AWS", "Google Cloud"],
         databases: ["mongo","sql"],
+        //learning
+        devOps: ["AWS", "Google Cloud"],
         misc: ["Firebase", "socket.io"]
     },
-    challenge: "I am trying to do more personal projects",
+    challenge: "I am trying to do more personal projects and open source contributions",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
