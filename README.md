@@ -17,7 +17,7 @@ const abhie16 = {
         //practicing
        frontEnd: {
             js: ["React"],
-            css: ["materialize", "bootstrap"]
+            css: ["tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
