@@ -11,7 +11,7 @@
 ```javascript
 const abhie16 = {
     pronouns: "He" | "Him",
-    code: [Javascript, Java, C],
+    code: [Javascript, Java, C#, C++, C],
     askMeAbout: ["Web Developemnt", "DSA"],
     technologies:{
         //practicing
