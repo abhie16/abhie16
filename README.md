@@ -35,18 +35,10 @@ const abhie16 = {
         
 <div align="center">
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/abhie16"><img src="https://github-readme-stats.vercel.app/api?username=abhie16&show_icons=true&theme=dark" alt="abhie16's GitHub stats" /></a>
-
 <a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhie16&stroke=c9d1d9&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=c9d1d9&currStreakLabel=22c55e&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" /></a>
         
-<!-- 
-<a href="http://www.github.com/abhie16"><img src="https://activity-graph.herokuapp.com/graph?username=abhie16&bg_color=0d1117&color=c9d1d9&line=22c55e&point=c9d1d9&area_color=c9d1d9&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
         
 </div>
-        
-[![@abhie16's Holopin board](https://holopin.me/abhie16)](https://holopin.io/@abhie16)
 
 <div align="center">
   
